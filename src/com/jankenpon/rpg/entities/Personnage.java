@@ -7,6 +7,6 @@ package com.jankenpon.rpg.entities;
  * @author Brice
  *
  */
-public class Personnage {
+public abstract class Personnage {
 
 }

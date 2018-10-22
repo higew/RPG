@@ -7,6 +7,6 @@ package com.jankenpon.rpg.entities;
  * @author Brice
  *
  */
-public abstract class Armure {
+public class ArmeMixte extends Arme {
 
 }
