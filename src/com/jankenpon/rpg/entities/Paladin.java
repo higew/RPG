@@ -7,6 +7,6 @@ package com.jankenpon.rpg.entities;
  * @author NicolasG
  *
  */
-public interface Paladin {
+public interface Paladin extends ClasseRpg {
 
 }

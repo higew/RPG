@@ -1,5 +1,5 @@
 package com.jankenpon.rpg.entities;
 
-public interface DefaultMagicien {
+public class DefaultMagicien extends DefaultFighter {
 
 }
