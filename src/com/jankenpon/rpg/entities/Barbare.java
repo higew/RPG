@@ -7,6 +7,6 @@ package com.jankenpon.rpg.entities;
  * @author NicolasG
  *
  */
-public interface Barbare {
+public interface Barbare extends DefaultBarbare{
 
 }

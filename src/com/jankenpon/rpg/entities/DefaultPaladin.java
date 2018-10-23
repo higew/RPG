@@ -7,6 +7,6 @@ package com.jankenpon.rpg.entities;
  * @author NicolasG
  *
  */
-public interface DefaultPaladin {
+public interface DefaultPaladin extends DefaultFighter implements Paladin {
 
 }
