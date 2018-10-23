@@ -9,4 +9,10 @@ package com.jankenpon.rpg.entities;
  */
 public class ArmureMagique extends Armure {
 
+	@Override
+	public int getPtsArmure() {
+		// TODO Auto-generated method stub
+		return super.getPtsArmure();
+	}
+	
 }

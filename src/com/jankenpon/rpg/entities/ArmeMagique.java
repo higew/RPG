@@ -9,4 +9,16 @@ package com.jankenpon.rpg.entities;
  */
 public class ArmeMagique extends Arme {
 
+	@Override
+	public int getPtsDmg() {
+		// TODO Auto-generated method stub
+		return super.getPtsDmg();
+	}
+
+	@Override
+	public int getCoutPtsAction() {
+		// TODO Auto-generated method stub
+		return super.getCoutPtsAction();
+	}
+
 }

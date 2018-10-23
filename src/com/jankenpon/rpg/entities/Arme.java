@@ -8,19 +8,18 @@ package com.jankenpon.rpg.entities;
  *
  */
 public abstract class Arme {
+	
+	public static final int ptsEquipe = 1;
 	private int ptsDmg;
-	private int ptsEquipe;
-	/**
-	 * @return the ptsDmg
-	 */
+	private int coutPtsAction;
+	
+	
 	public int getPtsDmg() {
 		return ptsDmg;
 	}
-	/**
-	 * @return the ptsEquipe
-	 */
-	public int getPtsEquipe() {
-		return ptsEquipe;
+	public int getCoutPtsAction() {
+		return coutPtsAction;
 	}
+	
 	
 }
