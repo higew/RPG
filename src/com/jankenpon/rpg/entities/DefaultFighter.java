@@ -7,7 +7,7 @@ package com.jankenpon.rpg.entities;
  * @author NicolasG
  *
  */
-public abstract class DefaultFighter implements ClasseRpg {
+public class DefaultFighter implements ClasseRpg {
 
 	@Override
 	public String getArmorRestriction() {
