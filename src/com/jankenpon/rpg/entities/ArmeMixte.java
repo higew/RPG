@@ -8,7 +8,6 @@ package com.jankenpon.rpg.entities;
  *
  */
 public class ArmeMixte extends Arme {
-
 	@Override
 	public int getPtsDmg() {
 		// TODO Auto-generated method stub

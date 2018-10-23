@@ -36,6 +36,5 @@ public class DefaultMagicien extends DefaultFighter implements Magicien {
 		}
 		return super.isEquipable(armure);
 	}
-
 }
 
