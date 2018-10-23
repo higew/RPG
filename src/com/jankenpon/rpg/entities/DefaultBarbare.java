@@ -1,5 +1,5 @@
 package com.jankenpon.rpg.entities;
 
-public interface DefaultBarbare {
+public class DefaultBarbare extends DefaultFighter implements Barbare {
 
 }
