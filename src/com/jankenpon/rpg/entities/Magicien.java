@@ -8,5 +8,5 @@ package com.jankenpon.rpg.entities;
  *
  */
 public interface Magicien extends ClasseRpg {
- 
+	
 }
